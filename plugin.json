@@ -1,0 +1,9 @@
+{
+  "id": "com.alsi.ai.agent",
+  "name": "ALSI Ai Agent",
+  "main": "main.js",
+  "version": "1.0.0",
+  "readme": "readme.md",
+  "author": "Velocity Meltdown"
+}
+
